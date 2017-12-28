@@ -1,0 +1,541 @@
+  bsBasicPlayer2: shot[ 9][ 9],  Miss, shots:  1, misses: 1, hits: 0, sunk:0
+          player: shot[ 0][ 0],  Miss, shots:  1, misses: 1, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 8],  Miss, shots:  2, misses: 2, hits: 0, sunk:0
+          player: shot[ 0][ 1],  Miss, shots:  2, misses: 2, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 7],  Miss, shots:  3, misses: 3, hits: 0, sunk:0
+          player: shot[ 0][ 2],  Miss, shots:  3, misses: 3, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 6],  Miss, shots:  4, misses: 4, hits: 0, sunk:0
+          player: shot[ 0][ 3],  Miss, shots:  4, misses: 4, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 5],  Miss, shots:  5, misses: 5, hits: 0, sunk:0
+          player: shot[ 0][ 4],  Miss, shots:  5, misses: 5, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 4],  Miss, shots:  6, misses: 6, hits: 0, sunk:0
+          player: shot[ 0][ 5],  Miss, shots:  6, misses: 6, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 3],  Miss, shots:  7, misses: 7, hits: 0, sunk:0
+          player: shot[ 0][ 6],  Miss, shots:  7, misses: 7, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 2],  Miss, shots:  8, misses: 8, hits: 0, sunk:0
+          player: shot[ 0][ 7],  Miss, shots:  8, misses: 8, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 1],  Miss, shots:  9, misses: 9, hits: 0, sunk:0
+          player: shot[ 0][ 8],  Miss, shots:  9, misses: 9, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 0],  Miss, shots: 10, misses:10, hits: 0, sunk:0
+          player: shot[ 0][ 9],  Miss, shots: 10, misses:10, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 9],  Miss, shots: 11, misses:11, hits: 0, sunk:0
+          player: shot[ 1][ 0],  Miss, shots: 11, misses:11, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 8],  Miss, shots: 12, misses:12, hits: 0, sunk:0
+          player: shot[ 1][ 1],  Miss, shots: 12, misses:12, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 7],  Miss, shots: 13, misses:13, hits: 0, sunk:0
+          player: shot[ 1][ 2],  Miss, shots: 13, misses:13, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 6],  Miss, shots: 14, misses:14, hits: 0, sunk:0
+          player: shot[ 1][ 3],  Miss, shots: 14, misses:14, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 5],  Miss, shots: 15, misses:15, hits: 0, sunk:0
+          player: shot[ 1][ 4],  Miss, shots: 15, misses:15, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 4],  Miss, shots: 16, misses:16, hits: 0, sunk:0
+          player: shot[ 1][ 5],  Miss, shots: 16, misses:16, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 3],  Miss, shots: 17, misses:17, hits: 0, sunk:0
+          player: shot[ 1][ 6],  Miss, shots: 17, misses:17, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 2],  Miss, shots: 18, misses:18, hits: 0, sunk:0
+          player: shot[ 1][ 7],  Miss, shots: 18, misses:18, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 1],  Miss, shots: 19, misses:19, hits: 0, sunk:0
+          player: shot[ 1][ 8],  HIT!, shots: 19, misses:18, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 8][ 0],  Miss, shots: 20, misses:20, hits: 0, sunk:0
+          player: shot[ 1][ 9],  Miss, shots: 20, misses:19, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 7][ 9],  Miss, shots: 21, misses:21, hits: 0, sunk:0
+          player: shot[ 2][ 0],  Miss, shots: 21, misses:20, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 7][ 8],  Miss, shots: 22, misses:22, hits: 0, sunk:0
+          player: shot[ 2][ 1],  HIT!, shots: 22, misses:20, hits: 2, sunk:0
+  bsBasicPlayer2: shot[ 7][ 7],  Miss, shots: 23, misses:23, hits: 0, sunk:0
+          player: shot[ 2][ 2],  HIT!, shots: 23, misses:20, hits: 3, sunk:0
+  bsBasicPlayer2: shot[ 7][ 6],  Miss, shots: 24, misses:24, hits: 0, sunk:0
+          player: shot[ 2][ 3],  HIT!, shots: 24, misses:20, hits: 4, sunk:0
+  bsBasicPlayer2: shot[ 7][ 5],  Miss, shots: 25, misses:25, hits: 0, sunk:0
+          player: shot[ 2][ 4],  HIT!, shots: 25, misses:20, hits: 5, sunk:0
+  bsBasicPlayer2: shot[ 7][ 4],  Miss, shots: 26, misses:26, hits: 0, sunk:0
+          player: shot[ 2][ 5], SINK!, shots: 26, misses:20, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 3],  Miss, shots: 27, misses:27, hits: 0, sunk:0
+          player: shot[ 2][ 6],  Miss, shots: 27, misses:21, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 2],  Miss, shots: 28, misses:28, hits: 0, sunk:0
+          player: shot[ 2][ 7],  Miss, shots: 28, misses:22, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 1],  Miss, shots: 29, misses:29, hits: 0, sunk:0
+          player: shot[ 2][ 8],  HIT!, shots: 29, misses:22, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 7][ 0],  Miss, shots: 30, misses:30, hits: 0, sunk:0
+          player: shot[ 2][ 9],  Miss, shots: 30, misses:23, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 9],  Miss, shots: 31, misses:31, hits: 0, sunk:0
+          player: shot[ 3][ 0],  Miss, shots: 31, misses:24, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 8],  Miss, shots: 32, misses:32, hits: 0, sunk:0
+          player: shot[ 3][ 1],  Miss, shots: 32, misses:25, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 7],  Miss, shots: 33, misses:33, hits: 0, sunk:0
+          player: shot[ 3][ 2],  Miss, shots: 33, misses:26, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 6],  Miss, shots: 34, misses:34, hits: 0, sunk:0
+          player: shot[ 3][ 3],  Miss, shots: 34, misses:27, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 5],  Miss, shots: 35, misses:35, hits: 0, sunk:0
+          player: shot[ 3][ 4],  Miss, shots: 35, misses:28, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 4],  Miss, shots: 36, misses:36, hits: 0, sunk:0
+          player: shot[ 3][ 5],  Miss, shots: 36, misses:29, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 3],  Miss, shots: 37, misses:37, hits: 0, sunk:0
+          player: shot[ 3][ 6],  Miss, shots: 37, misses:30, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 2],  Miss, shots: 38, misses:38, hits: 0, sunk:0
+          player: shot[ 3][ 7],  Miss, shots: 38, misses:31, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 1],  Miss, shots: 39, misses:39, hits: 0, sunk:0
+          player: shot[ 3][ 8],  HIT!, shots: 39, misses:31, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 6][ 0],  Miss, shots: 40, misses:40, hits: 0, sunk:0
+          player: shot[ 3][ 9],  Miss, shots: 40, misses:32, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 9],  Miss, shots: 41, misses:41, hits: 0, sunk:0
+          player: shot[ 4][ 0],  Miss, shots: 41, misses:33, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 8],  Miss, shots: 42, misses:42, hits: 0, sunk:0
+          player: shot[ 4][ 1],  Miss, shots: 42, misses:34, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 7],  Miss, shots: 43, misses:43, hits: 0, sunk:0
+          player: shot[ 4][ 2],  Miss, shots: 43, misses:35, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 6],  Miss, shots: 44, misses:44, hits: 0, sunk:0
+          player: shot[ 4][ 3],  Miss, shots: 44, misses:36, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 5],  Miss, shots: 45, misses:45, hits: 0, sunk:0
+          player: shot[ 4][ 4],  Miss, shots: 45, misses:37, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 4],  Miss, shots: 46, misses:46, hits: 0, sunk:0
+          player: shot[ 4][ 5],  HIT!, shots: 46, misses:37, hits: 9, sunk:1
+  bsBasicPlayer2: shot[ 5][ 3],  Miss, shots: 47, misses:47, hits: 0, sunk:0
+          player: shot[ 4][ 6],  HIT!, shots: 47, misses:37, hits:10, sunk:1
+  bsBasicPlayer2: shot[ 5][ 2],  HIT!, shots: 48, misses:47, hits: 1, sunk:0
+          player: shot[ 4][ 7], SINK!, shots: 48, misses:37, hits:11, sunk:2
+  bsBasicPlayer2: shot[ 5][ 1], SINK!, shots: 49, misses:47, hits: 2, sunk:1
+          player: shot[ 4][ 8], SINK!, shots: 49, misses:37, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 5][ 0],  Miss, shots: 50, misses:48, hits: 2, sunk:1
+          player: shot[ 4][ 9],  Miss, shots: 50, misses:38, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 9],  Miss, shots: 51, misses:49, hits: 2, sunk:1
+          player: shot[ 5][ 0],  Miss, shots: 51, misses:39, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 8],  Miss, shots: 52, misses:50, hits: 2, sunk:1
+          player: shot[ 5][ 1],  Miss, shots: 52, misses:40, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 7],  Miss, shots: 53, misses:51, hits: 2, sunk:1
+          player: shot[ 5][ 2],  Miss, shots: 53, misses:41, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 6],  Miss, shots: 54, misses:52, hits: 2, sunk:1
+          player: shot[ 5][ 3],  Miss, shots: 54, misses:42, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 5],  Miss, shots: 55, misses:53, hits: 2, sunk:1
+          player: shot[ 5][ 4],  Miss, shots: 55, misses:43, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 4],  Miss, shots: 56, misses:54, hits: 2, sunk:1
+          player: shot[ 5][ 5],  Miss, shots: 56, misses:44, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 3],  HIT!, shots: 57, misses:54, hits: 3, sunk:1
+          player: shot[ 5][ 6],  Miss, shots: 57, misses:45, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 2],  HIT!, shots: 58, misses:54, hits: 4, sunk:1
+          player: shot[ 5][ 7],  Miss, shots: 58, misses:46, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 1], SINK!, shots: 59, misses:54, hits: 5, sunk:2
+          player: shot[ 5][ 8],  Miss, shots: 59, misses:47, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 0],  Miss, shots: 60, misses:55, hits: 5, sunk:2
+          player: shot[ 5][ 9],  Miss, shots: 60, misses:48, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 9],  Miss, shots: 61, misses:56, hits: 5, sunk:2
+          player: shot[ 6][ 0],  Miss, shots: 61, misses:49, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 8],  Miss, shots: 62, misses:57, hits: 5, sunk:2
+          player: shot[ 6][ 1],  Miss, shots: 62, misses:50, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 7],  Miss, shots: 63, misses:58, hits: 5, sunk:2
+          player: shot[ 6][ 2],  Miss, shots: 63, misses:51, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 6],  Miss, shots: 64, misses:59, hits: 5, sunk:2
+          player: shot[ 6][ 3],  HIT!, shots: 64, misses:51, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 5],  Miss, shots: 65, misses:60, hits: 5, sunk:2
+          player: shot[ 6][ 4],  Miss, shots: 65, misses:52, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 4],  Miss, shots: 66, misses:61, hits: 5, sunk:2
+          player: shot[ 6][ 5],  Miss, shots: 66, misses:53, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 3],  HIT!, shots: 67, misses:61, hits: 6, sunk:2
+          player: shot[ 6][ 6],  Miss, shots: 67, misses:54, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 2],  HIT!, shots: 68, misses:61, hits: 7, sunk:2
+          player: shot[ 6][ 7],  Miss, shots: 68, misses:55, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 1], SINK!, shots: 69, misses:61, hits: 8, sunk:3
+          player: shot[ 6][ 8],  Miss, shots: 69, misses:56, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 0],  Miss, shots: 70, misses:62, hits: 8, sunk:3
+          player: shot[ 6][ 9],  Miss, shots: 70, misses:57, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 9],  Miss, shots: 71, misses:63, hits: 8, sunk:3
+          player: shot[ 7][ 0],  Miss, shots: 71, misses:58, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 8],  Miss, shots: 72, misses:64, hits: 8, sunk:3
+          player: shot[ 7][ 1],  Miss, shots: 72, misses:59, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 7],  Miss, shots: 73, misses:65, hits: 8, sunk:3
+          player: shot[ 7][ 2],  Miss, shots: 73, misses:60, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 6],  Miss, shots: 74, misses:66, hits: 8, sunk:3
+          player: shot[ 7][ 3],  HIT!, shots: 74, misses:60, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 5],  Miss, shots: 75, misses:67, hits: 8, sunk:3
+          player: shot[ 7][ 4],  Miss, shots: 75, misses:61, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 4],  HIT!, shots: 76, misses:67, hits: 9, sunk:3
+          player: shot[ 7][ 5],  Miss, shots: 76, misses:62, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 3],  HIT!, shots: 77, misses:67, hits:10, sunk:3
+          player: shot[ 7][ 6],  Miss, shots: 77, misses:63, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 2],  HIT!, shots: 78, misses:67, hits:11, sunk:3
+          player: shot[ 7][ 7],  Miss, shots: 78, misses:64, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 1], SINK!, shots: 79, misses:67, hits:12, sunk:4
+          player: shot[ 7][ 8],  Miss, shots: 79, misses:65, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 0],  Miss, shots: 80, misses:68, hits:12, sunk:4
+          player: shot[ 7][ 9],  Miss, shots: 80, misses:66, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 9],  Miss, shots: 81, misses:69, hits:12, sunk:4
+          player: shot[ 8][ 0],  Miss, shots: 81, misses:67, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 8],  Miss, shots: 82, misses:70, hits:12, sunk:4
+          player: shot[ 8][ 1],  Miss, shots: 82, misses:68, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 7],  Miss, shots: 83, misses:71, hits:12, sunk:4
+          player: shot[ 8][ 2],  Miss, shots: 83, misses:69, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 6],  Miss, shots: 84, misses:72, hits:12, sunk:4
+          player: shot[ 8][ 3], SINK!, shots: 84, misses:69, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 5],  HIT!, shots: 85, misses:72, hits:13, sunk:4
+          player: shot[ 8][ 4],  Miss, shots: 85, misses:70, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 4],  HIT!, shots: 86, misses:72, hits:14, sunk:4
+          player: shot[ 8][ 5],  Miss, shots: 86, misses:71, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 3],  HIT!, shots: 87, misses:72, hits:15, sunk:4
+          player: shot[ 8][ 6],  Miss, shots: 87, misses:72, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 2],  HIT!, shots: 88, misses:72, hits:16, sunk:4
+          player: shot[ 8][ 7],  Miss, shots: 88, misses:73, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 1], SINK!, shots: 89, misses:72, hits:17, sunk:5
+          player: shot[ 8][ 8],  Miss, shots: 89, misses:74, hits:15, sunk:4
+Game 1: bsBasicPlayer2 won in 89 shots, player had 15 hits and 4 sinks
+
+  bsBasicPlayer2: shot[ 9][ 9],  Miss, shots:  1, misses: 1, hits: 0, sunk:0
+          player: shot[ 0][ 0],  Miss, shots:  1, misses: 1, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 8],  Miss, shots:  2, misses: 2, hits: 0, sunk:0
+          player: shot[ 0][ 1],  Miss, shots:  2, misses: 2, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 7],  Miss, shots:  3, misses: 3, hits: 0, sunk:0
+          player: shot[ 0][ 2],  Miss, shots:  3, misses: 3, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 6],  Miss, shots:  4, misses: 4, hits: 0, sunk:0
+          player: shot[ 0][ 3],  Miss, shots:  4, misses: 4, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 5],  Miss, shots:  5, misses: 5, hits: 0, sunk:0
+          player: shot[ 0][ 4],  Miss, shots:  5, misses: 5, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 4],  Miss, shots:  6, misses: 6, hits: 0, sunk:0
+          player: shot[ 0][ 5],  Miss, shots:  6, misses: 6, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 3],  Miss, shots:  7, misses: 7, hits: 0, sunk:0
+          player: shot[ 0][ 6],  Miss, shots:  7, misses: 7, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 2],  Miss, shots:  8, misses: 8, hits: 0, sunk:0
+          player: shot[ 0][ 7],  Miss, shots:  8, misses: 8, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 1],  Miss, shots:  9, misses: 9, hits: 0, sunk:0
+          player: shot[ 0][ 8],  Miss, shots:  9, misses: 9, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 0],  Miss, shots: 10, misses:10, hits: 0, sunk:0
+          player: shot[ 0][ 9],  Miss, shots: 10, misses:10, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 9],  Miss, shots: 11, misses:11, hits: 0, sunk:0
+          player: shot[ 1][ 0],  Miss, shots: 11, misses:11, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 8],  Miss, shots: 12, misses:12, hits: 0, sunk:0
+          player: shot[ 1][ 1],  Miss, shots: 12, misses:12, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 7],  Miss, shots: 13, misses:13, hits: 0, sunk:0
+          player: shot[ 1][ 2],  Miss, shots: 13, misses:13, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 6],  Miss, shots: 14, misses:14, hits: 0, sunk:0
+          player: shot[ 1][ 3],  Miss, shots: 14, misses:14, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 5],  Miss, shots: 15, misses:15, hits: 0, sunk:0
+          player: shot[ 1][ 4],  Miss, shots: 15, misses:15, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 4],  Miss, shots: 16, misses:16, hits: 0, sunk:0
+          player: shot[ 1][ 5],  Miss, shots: 16, misses:16, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 3],  Miss, shots: 17, misses:17, hits: 0, sunk:0
+          player: shot[ 1][ 6],  Miss, shots: 17, misses:17, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 2],  Miss, shots: 18, misses:18, hits: 0, sunk:0
+          player: shot[ 1][ 7],  Miss, shots: 18, misses:18, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 1],  Miss, shots: 19, misses:19, hits: 0, sunk:0
+          player: shot[ 1][ 8],  HIT!, shots: 19, misses:18, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 8][ 0],  Miss, shots: 20, misses:20, hits: 0, sunk:0
+          player: shot[ 1][ 9],  Miss, shots: 20, misses:19, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 7][ 9],  Miss, shots: 21, misses:21, hits: 0, sunk:0
+          player: shot[ 2][ 0],  Miss, shots: 21, misses:20, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 7][ 8],  Miss, shots: 22, misses:22, hits: 0, sunk:0
+          player: shot[ 2][ 1],  HIT!, shots: 22, misses:20, hits: 2, sunk:0
+  bsBasicPlayer2: shot[ 7][ 7],  Miss, shots: 23, misses:23, hits: 0, sunk:0
+          player: shot[ 2][ 2],  HIT!, shots: 23, misses:20, hits: 3, sunk:0
+  bsBasicPlayer2: shot[ 7][ 6],  Miss, shots: 24, misses:24, hits: 0, sunk:0
+          player: shot[ 2][ 3],  HIT!, shots: 24, misses:20, hits: 4, sunk:0
+  bsBasicPlayer2: shot[ 7][ 5],  Miss, shots: 25, misses:25, hits: 0, sunk:0
+          player: shot[ 2][ 4],  HIT!, shots: 25, misses:20, hits: 5, sunk:0
+  bsBasicPlayer2: shot[ 7][ 4],  Miss, shots: 26, misses:26, hits: 0, sunk:0
+          player: shot[ 2][ 5], SINK!, shots: 26, misses:20, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 3],  Miss, shots: 27, misses:27, hits: 0, sunk:0
+          player: shot[ 2][ 6],  Miss, shots: 27, misses:21, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 2],  Miss, shots: 28, misses:28, hits: 0, sunk:0
+          player: shot[ 2][ 7],  Miss, shots: 28, misses:22, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 1],  Miss, shots: 29, misses:29, hits: 0, sunk:0
+          player: shot[ 2][ 8],  HIT!, shots: 29, misses:22, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 7][ 0],  Miss, shots: 30, misses:30, hits: 0, sunk:0
+          player: shot[ 2][ 9],  Miss, shots: 30, misses:23, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 9],  Miss, shots: 31, misses:31, hits: 0, sunk:0
+          player: shot[ 3][ 0],  Miss, shots: 31, misses:24, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 8],  Miss, shots: 32, misses:32, hits: 0, sunk:0
+          player: shot[ 3][ 1],  Miss, shots: 32, misses:25, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 7],  Miss, shots: 33, misses:33, hits: 0, sunk:0
+          player: shot[ 3][ 2],  Miss, shots: 33, misses:26, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 6],  Miss, shots: 34, misses:34, hits: 0, sunk:0
+          player: shot[ 3][ 3],  Miss, shots: 34, misses:27, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 5],  Miss, shots: 35, misses:35, hits: 0, sunk:0
+          player: shot[ 3][ 4],  Miss, shots: 35, misses:28, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 4],  Miss, shots: 36, misses:36, hits: 0, sunk:0
+          player: shot[ 3][ 5],  Miss, shots: 36, misses:29, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 3],  Miss, shots: 37, misses:37, hits: 0, sunk:0
+          player: shot[ 3][ 6],  Miss, shots: 37, misses:30, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 2],  Miss, shots: 38, misses:38, hits: 0, sunk:0
+          player: shot[ 3][ 7],  Miss, shots: 38, misses:31, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 1],  Miss, shots: 39, misses:39, hits: 0, sunk:0
+          player: shot[ 3][ 8],  HIT!, shots: 39, misses:31, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 6][ 0],  Miss, shots: 40, misses:40, hits: 0, sunk:0
+          player: shot[ 3][ 9],  Miss, shots: 40, misses:32, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 9],  Miss, shots: 41, misses:41, hits: 0, sunk:0
+          player: shot[ 4][ 0],  Miss, shots: 41, misses:33, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 8],  Miss, shots: 42, misses:42, hits: 0, sunk:0
+          player: shot[ 4][ 1],  Miss, shots: 42, misses:34, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 7],  Miss, shots: 43, misses:43, hits: 0, sunk:0
+          player: shot[ 4][ 2],  Miss, shots: 43, misses:35, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 6],  Miss, shots: 44, misses:44, hits: 0, sunk:0
+          player: shot[ 4][ 3],  Miss, shots: 44, misses:36, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 5],  Miss, shots: 45, misses:45, hits: 0, sunk:0
+          player: shot[ 4][ 4],  Miss, shots: 45, misses:37, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 4],  Miss, shots: 46, misses:46, hits: 0, sunk:0
+          player: shot[ 4][ 5],  HIT!, shots: 46, misses:37, hits: 9, sunk:1
+  bsBasicPlayer2: shot[ 5][ 3],  Miss, shots: 47, misses:47, hits: 0, sunk:0
+          player: shot[ 4][ 6],  HIT!, shots: 47, misses:37, hits:10, sunk:1
+  bsBasicPlayer2: shot[ 5][ 2],  HIT!, shots: 48, misses:47, hits: 1, sunk:0
+          player: shot[ 4][ 7], SINK!, shots: 48, misses:37, hits:11, sunk:2
+  bsBasicPlayer2: shot[ 5][ 1], SINK!, shots: 49, misses:47, hits: 2, sunk:1
+          player: shot[ 4][ 8], SINK!, shots: 49, misses:37, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 5][ 0],  Miss, shots: 50, misses:48, hits: 2, sunk:1
+          player: shot[ 4][ 9],  Miss, shots: 50, misses:38, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 9],  Miss, shots: 51, misses:49, hits: 2, sunk:1
+          player: shot[ 5][ 0],  Miss, shots: 51, misses:39, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 8],  Miss, shots: 52, misses:50, hits: 2, sunk:1
+          player: shot[ 5][ 1],  Miss, shots: 52, misses:40, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 7],  Miss, shots: 53, misses:51, hits: 2, sunk:1
+          player: shot[ 5][ 2],  Miss, shots: 53, misses:41, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 6],  Miss, shots: 54, misses:52, hits: 2, sunk:1
+          player: shot[ 5][ 3],  Miss, shots: 54, misses:42, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 5],  Miss, shots: 55, misses:53, hits: 2, sunk:1
+          player: shot[ 5][ 4],  Miss, shots: 55, misses:43, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 4],  Miss, shots: 56, misses:54, hits: 2, sunk:1
+          player: shot[ 5][ 5],  Miss, shots: 56, misses:44, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 3],  HIT!, shots: 57, misses:54, hits: 3, sunk:1
+          player: shot[ 5][ 6],  Miss, shots: 57, misses:45, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 2],  HIT!, shots: 58, misses:54, hits: 4, sunk:1
+          player: shot[ 5][ 7],  Miss, shots: 58, misses:46, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 1], SINK!, shots: 59, misses:54, hits: 5, sunk:2
+          player: shot[ 5][ 8],  Miss, shots: 59, misses:47, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 0],  Miss, shots: 60, misses:55, hits: 5, sunk:2
+          player: shot[ 5][ 9],  Miss, shots: 60, misses:48, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 9],  Miss, shots: 61, misses:56, hits: 5, sunk:2
+          player: shot[ 6][ 0],  Miss, shots: 61, misses:49, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 8],  Miss, shots: 62, misses:57, hits: 5, sunk:2
+          player: shot[ 6][ 1],  Miss, shots: 62, misses:50, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 7],  Miss, shots: 63, misses:58, hits: 5, sunk:2
+          player: shot[ 6][ 2],  Miss, shots: 63, misses:51, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 6],  Miss, shots: 64, misses:59, hits: 5, sunk:2
+          player: shot[ 6][ 3],  HIT!, shots: 64, misses:51, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 5],  Miss, shots: 65, misses:60, hits: 5, sunk:2
+          player: shot[ 6][ 4],  Miss, shots: 65, misses:52, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 4],  Miss, shots: 66, misses:61, hits: 5, sunk:2
+          player: shot[ 6][ 5],  Miss, shots: 66, misses:53, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 3],  HIT!, shots: 67, misses:61, hits: 6, sunk:2
+          player: shot[ 6][ 6],  Miss, shots: 67, misses:54, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 2],  HIT!, shots: 68, misses:61, hits: 7, sunk:2
+          player: shot[ 6][ 7],  Miss, shots: 68, misses:55, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 1], SINK!, shots: 69, misses:61, hits: 8, sunk:3
+          player: shot[ 6][ 8],  Miss, shots: 69, misses:56, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 0],  Miss, shots: 70, misses:62, hits: 8, sunk:3
+          player: shot[ 6][ 9],  Miss, shots: 70, misses:57, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 9],  Miss, shots: 71, misses:63, hits: 8, sunk:3
+          player: shot[ 7][ 0],  Miss, shots: 71, misses:58, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 8],  Miss, shots: 72, misses:64, hits: 8, sunk:3
+          player: shot[ 7][ 1],  Miss, shots: 72, misses:59, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 7],  Miss, shots: 73, misses:65, hits: 8, sunk:3
+          player: shot[ 7][ 2],  Miss, shots: 73, misses:60, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 6],  Miss, shots: 74, misses:66, hits: 8, sunk:3
+          player: shot[ 7][ 3],  HIT!, shots: 74, misses:60, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 5],  Miss, shots: 75, misses:67, hits: 8, sunk:3
+          player: shot[ 7][ 4],  Miss, shots: 75, misses:61, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 4],  HIT!, shots: 76, misses:67, hits: 9, sunk:3
+          player: shot[ 7][ 5],  Miss, shots: 76, misses:62, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 3],  HIT!, shots: 77, misses:67, hits:10, sunk:3
+          player: shot[ 7][ 6],  Miss, shots: 77, misses:63, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 2],  HIT!, shots: 78, misses:67, hits:11, sunk:3
+          player: shot[ 7][ 7],  Miss, shots: 78, misses:64, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 1], SINK!, shots: 79, misses:67, hits:12, sunk:4
+          player: shot[ 7][ 8],  Miss, shots: 79, misses:65, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 0],  Miss, shots: 80, misses:68, hits:12, sunk:4
+          player: shot[ 7][ 9],  Miss, shots: 80, misses:66, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 9],  Miss, shots: 81, misses:69, hits:12, sunk:4
+          player: shot[ 8][ 0],  Miss, shots: 81, misses:67, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 8],  Miss, shots: 82, misses:70, hits:12, sunk:4
+          player: shot[ 8][ 1],  Miss, shots: 82, misses:68, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 7],  Miss, shots: 83, misses:71, hits:12, sunk:4
+          player: shot[ 8][ 2],  Miss, shots: 83, misses:69, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 6],  Miss, shots: 84, misses:72, hits:12, sunk:4
+          player: shot[ 8][ 3], SINK!, shots: 84, misses:69, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 5],  HIT!, shots: 85, misses:72, hits:13, sunk:4
+          player: shot[ 8][ 4],  Miss, shots: 85, misses:70, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 4],  HIT!, shots: 86, misses:72, hits:14, sunk:4
+          player: shot[ 8][ 5],  Miss, shots: 86, misses:71, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 3],  HIT!, shots: 87, misses:72, hits:15, sunk:4
+          player: shot[ 8][ 6],  Miss, shots: 87, misses:72, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 2],  HIT!, shots: 88, misses:72, hits:16, sunk:4
+          player: shot[ 8][ 7],  Miss, shots: 88, misses:73, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 1], SINK!, shots: 89, misses:72, hits:17, sunk:5
+          player: shot[ 8][ 8],  Miss, shots: 89, misses:74, hits:15, sunk:4
+Game 2: bsBasicPlayer2 won in 89 shots, player had 15 hits and 4 sinks
+
+  bsBasicPlayer2: shot[ 9][ 9],  Miss, shots:  1, misses: 1, hits: 0, sunk:0
+          player: shot[ 0][ 0],  Miss, shots:  1, misses: 1, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 8],  Miss, shots:  2, misses: 2, hits: 0, sunk:0
+          player: shot[ 0][ 1],  Miss, shots:  2, misses: 2, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 7],  Miss, shots:  3, misses: 3, hits: 0, sunk:0
+          player: shot[ 0][ 2],  Miss, shots:  3, misses: 3, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 6],  Miss, shots:  4, misses: 4, hits: 0, sunk:0
+          player: shot[ 0][ 3],  Miss, shots:  4, misses: 4, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 5],  Miss, shots:  5, misses: 5, hits: 0, sunk:0
+          player: shot[ 0][ 4],  Miss, shots:  5, misses: 5, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 4],  Miss, shots:  6, misses: 6, hits: 0, sunk:0
+          player: shot[ 0][ 5],  Miss, shots:  6, misses: 6, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 3],  Miss, shots:  7, misses: 7, hits: 0, sunk:0
+          player: shot[ 0][ 6],  Miss, shots:  7, misses: 7, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 2],  Miss, shots:  8, misses: 8, hits: 0, sunk:0
+          player: shot[ 0][ 7],  Miss, shots:  8, misses: 8, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 1],  Miss, shots:  9, misses: 9, hits: 0, sunk:0
+          player: shot[ 0][ 8],  Miss, shots:  9, misses: 9, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 9][ 0],  Miss, shots: 10, misses:10, hits: 0, sunk:0
+          player: shot[ 0][ 9],  Miss, shots: 10, misses:10, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 9],  Miss, shots: 11, misses:11, hits: 0, sunk:0
+          player: shot[ 1][ 0],  Miss, shots: 11, misses:11, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 8],  Miss, shots: 12, misses:12, hits: 0, sunk:0
+          player: shot[ 1][ 1],  Miss, shots: 12, misses:12, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 7],  Miss, shots: 13, misses:13, hits: 0, sunk:0
+          player: shot[ 1][ 2],  Miss, shots: 13, misses:13, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 6],  Miss, shots: 14, misses:14, hits: 0, sunk:0
+          player: shot[ 1][ 3],  Miss, shots: 14, misses:14, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 5],  Miss, shots: 15, misses:15, hits: 0, sunk:0
+          player: shot[ 1][ 4],  Miss, shots: 15, misses:15, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 4],  Miss, shots: 16, misses:16, hits: 0, sunk:0
+          player: shot[ 1][ 5],  Miss, shots: 16, misses:16, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 3],  Miss, shots: 17, misses:17, hits: 0, sunk:0
+          player: shot[ 1][ 6],  Miss, shots: 17, misses:17, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 2],  Miss, shots: 18, misses:18, hits: 0, sunk:0
+          player: shot[ 1][ 7],  Miss, shots: 18, misses:18, hits: 0, sunk:0
+  bsBasicPlayer2: shot[ 8][ 1],  Miss, shots: 19, misses:19, hits: 0, sunk:0
+          player: shot[ 1][ 8],  HIT!, shots: 19, misses:18, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 8][ 0],  Miss, shots: 20, misses:20, hits: 0, sunk:0
+          player: shot[ 1][ 9],  Miss, shots: 20, misses:19, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 7][ 9],  Miss, shots: 21, misses:21, hits: 0, sunk:0
+          player: shot[ 2][ 0],  Miss, shots: 21, misses:20, hits: 1, sunk:0
+  bsBasicPlayer2: shot[ 7][ 8],  Miss, shots: 22, misses:22, hits: 0, sunk:0
+          player: shot[ 2][ 1],  HIT!, shots: 22, misses:20, hits: 2, sunk:0
+  bsBasicPlayer2: shot[ 7][ 7],  Miss, shots: 23, misses:23, hits: 0, sunk:0
+          player: shot[ 2][ 2],  HIT!, shots: 23, misses:20, hits: 3, sunk:0
+  bsBasicPlayer2: shot[ 7][ 6],  Miss, shots: 24, misses:24, hits: 0, sunk:0
+          player: shot[ 2][ 3],  HIT!, shots: 24, misses:20, hits: 4, sunk:0
+  bsBasicPlayer2: shot[ 7][ 5],  Miss, shots: 25, misses:25, hits: 0, sunk:0
+          player: shot[ 2][ 4],  HIT!, shots: 25, misses:20, hits: 5, sunk:0
+  bsBasicPlayer2: shot[ 7][ 4],  Miss, shots: 26, misses:26, hits: 0, sunk:0
+          player: shot[ 2][ 5], SINK!, shots: 26, misses:20, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 3],  Miss, shots: 27, misses:27, hits: 0, sunk:0
+          player: shot[ 2][ 6],  Miss, shots: 27, misses:21, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 2],  Miss, shots: 28, misses:28, hits: 0, sunk:0
+          player: shot[ 2][ 7],  Miss, shots: 28, misses:22, hits: 6, sunk:1
+  bsBasicPlayer2: shot[ 7][ 1],  Miss, shots: 29, misses:29, hits: 0, sunk:0
+          player: shot[ 2][ 8],  HIT!, shots: 29, misses:22, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 7][ 0],  Miss, shots: 30, misses:30, hits: 0, sunk:0
+          player: shot[ 2][ 9],  Miss, shots: 30, misses:23, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 9],  Miss, shots: 31, misses:31, hits: 0, sunk:0
+          player: shot[ 3][ 0],  Miss, shots: 31, misses:24, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 8],  Miss, shots: 32, misses:32, hits: 0, sunk:0
+          player: shot[ 3][ 1],  Miss, shots: 32, misses:25, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 7],  Miss, shots: 33, misses:33, hits: 0, sunk:0
+          player: shot[ 3][ 2],  Miss, shots: 33, misses:26, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 6],  Miss, shots: 34, misses:34, hits: 0, sunk:0
+          player: shot[ 3][ 3],  Miss, shots: 34, misses:27, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 5],  Miss, shots: 35, misses:35, hits: 0, sunk:0
+          player: shot[ 3][ 4],  Miss, shots: 35, misses:28, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 4],  Miss, shots: 36, misses:36, hits: 0, sunk:0
+          player: shot[ 3][ 5],  Miss, shots: 36, misses:29, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 3],  Miss, shots: 37, misses:37, hits: 0, sunk:0
+          player: shot[ 3][ 6],  Miss, shots: 37, misses:30, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 2],  Miss, shots: 38, misses:38, hits: 0, sunk:0
+          player: shot[ 3][ 7],  Miss, shots: 38, misses:31, hits: 7, sunk:1
+  bsBasicPlayer2: shot[ 6][ 1],  Miss, shots: 39, misses:39, hits: 0, sunk:0
+          player: shot[ 3][ 8],  HIT!, shots: 39, misses:31, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 6][ 0],  Miss, shots: 40, misses:40, hits: 0, sunk:0
+          player: shot[ 3][ 9],  Miss, shots: 40, misses:32, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 9],  Miss, shots: 41, misses:41, hits: 0, sunk:0
+          player: shot[ 4][ 0],  Miss, shots: 41, misses:33, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 8],  Miss, shots: 42, misses:42, hits: 0, sunk:0
+          player: shot[ 4][ 1],  Miss, shots: 42, misses:34, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 7],  Miss, shots: 43, misses:43, hits: 0, sunk:0
+          player: shot[ 4][ 2],  Miss, shots: 43, misses:35, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 6],  Miss, shots: 44, misses:44, hits: 0, sunk:0
+          player: shot[ 4][ 3],  Miss, shots: 44, misses:36, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 5],  Miss, shots: 45, misses:45, hits: 0, sunk:0
+          player: shot[ 4][ 4],  Miss, shots: 45, misses:37, hits: 8, sunk:1
+  bsBasicPlayer2: shot[ 5][ 4],  Miss, shots: 46, misses:46, hits: 0, sunk:0
+          player: shot[ 4][ 5],  HIT!, shots: 46, misses:37, hits: 9, sunk:1
+  bsBasicPlayer2: shot[ 5][ 3],  Miss, shots: 47, misses:47, hits: 0, sunk:0
+          player: shot[ 4][ 6],  HIT!, shots: 47, misses:37, hits:10, sunk:1
+  bsBasicPlayer2: shot[ 5][ 2],  HIT!, shots: 48, misses:47, hits: 1, sunk:0
+          player: shot[ 4][ 7], SINK!, shots: 48, misses:37, hits:11, sunk:2
+  bsBasicPlayer2: shot[ 5][ 1], SINK!, shots: 49, misses:47, hits: 2, sunk:1
+          player: shot[ 4][ 8], SINK!, shots: 49, misses:37, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 5][ 0],  Miss, shots: 50, misses:48, hits: 2, sunk:1
+          player: shot[ 4][ 9],  Miss, shots: 50, misses:38, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 9],  Miss, shots: 51, misses:49, hits: 2, sunk:1
+          player: shot[ 5][ 0],  Miss, shots: 51, misses:39, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 8],  Miss, shots: 52, misses:50, hits: 2, sunk:1
+          player: shot[ 5][ 1],  Miss, shots: 52, misses:40, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 7],  Miss, shots: 53, misses:51, hits: 2, sunk:1
+          player: shot[ 5][ 2],  Miss, shots: 53, misses:41, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 6],  Miss, shots: 54, misses:52, hits: 2, sunk:1
+          player: shot[ 5][ 3],  Miss, shots: 54, misses:42, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 5],  Miss, shots: 55, misses:53, hits: 2, sunk:1
+          player: shot[ 5][ 4],  Miss, shots: 55, misses:43, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 4],  Miss, shots: 56, misses:54, hits: 2, sunk:1
+          player: shot[ 5][ 5],  Miss, shots: 56, misses:44, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 3],  HIT!, shots: 57, misses:54, hits: 3, sunk:1
+          player: shot[ 5][ 6],  Miss, shots: 57, misses:45, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 2],  HIT!, shots: 58, misses:54, hits: 4, sunk:1
+          player: shot[ 5][ 7],  Miss, shots: 58, misses:46, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 1], SINK!, shots: 59, misses:54, hits: 5, sunk:2
+          player: shot[ 5][ 8],  Miss, shots: 59, misses:47, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 4][ 0],  Miss, shots: 60, misses:55, hits: 5, sunk:2
+          player: shot[ 5][ 9],  Miss, shots: 60, misses:48, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 9],  Miss, shots: 61, misses:56, hits: 5, sunk:2
+          player: shot[ 6][ 0],  Miss, shots: 61, misses:49, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 8],  Miss, shots: 62, misses:57, hits: 5, sunk:2
+          player: shot[ 6][ 1],  Miss, shots: 62, misses:50, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 7],  Miss, shots: 63, misses:58, hits: 5, sunk:2
+          player: shot[ 6][ 2],  Miss, shots: 63, misses:51, hits:12, sunk:3
+  bsBasicPlayer2: shot[ 3][ 6],  Miss, shots: 64, misses:59, hits: 5, sunk:2
+          player: shot[ 6][ 3],  HIT!, shots: 64, misses:51, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 5],  Miss, shots: 65, misses:60, hits: 5, sunk:2
+          player: shot[ 6][ 4],  Miss, shots: 65, misses:52, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 4],  Miss, shots: 66, misses:61, hits: 5, sunk:2
+          player: shot[ 6][ 5],  Miss, shots: 66, misses:53, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 3],  HIT!, shots: 67, misses:61, hits: 6, sunk:2
+          player: shot[ 6][ 6],  Miss, shots: 67, misses:54, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 2],  HIT!, shots: 68, misses:61, hits: 7, sunk:2
+          player: shot[ 6][ 7],  Miss, shots: 68, misses:55, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 1], SINK!, shots: 69, misses:61, hits: 8, sunk:3
+          player: shot[ 6][ 8],  Miss, shots: 69, misses:56, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 3][ 0],  Miss, shots: 70, misses:62, hits: 8, sunk:3
+          player: shot[ 6][ 9],  Miss, shots: 70, misses:57, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 9],  Miss, shots: 71, misses:63, hits: 8, sunk:3
+          player: shot[ 7][ 0],  Miss, shots: 71, misses:58, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 8],  Miss, shots: 72, misses:64, hits: 8, sunk:3
+          player: shot[ 7][ 1],  Miss, shots: 72, misses:59, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 7],  Miss, shots: 73, misses:65, hits: 8, sunk:3
+          player: shot[ 7][ 2],  Miss, shots: 73, misses:60, hits:13, sunk:3
+  bsBasicPlayer2: shot[ 2][ 6],  Miss, shots: 74, misses:66, hits: 8, sunk:3
+          player: shot[ 7][ 3],  HIT!, shots: 74, misses:60, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 5],  Miss, shots: 75, misses:67, hits: 8, sunk:3
+          player: shot[ 7][ 4],  Miss, shots: 75, misses:61, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 4],  HIT!, shots: 76, misses:67, hits: 9, sunk:3
+          player: shot[ 7][ 5],  Miss, shots: 76, misses:62, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 3],  HIT!, shots: 77, misses:67, hits:10, sunk:3
+          player: shot[ 7][ 6],  Miss, shots: 77, misses:63, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 2],  HIT!, shots: 78, misses:67, hits:11, sunk:3
+          player: shot[ 7][ 7],  Miss, shots: 78, misses:64, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 1], SINK!, shots: 79, misses:67, hits:12, sunk:4
+          player: shot[ 7][ 8],  Miss, shots: 79, misses:65, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 2][ 0],  Miss, shots: 80, misses:68, hits:12, sunk:4
+          player: shot[ 7][ 9],  Miss, shots: 80, misses:66, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 9],  Miss, shots: 81, misses:69, hits:12, sunk:4
+          player: shot[ 8][ 0],  Miss, shots: 81, misses:67, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 8],  Miss, shots: 82, misses:70, hits:12, sunk:4
+          player: shot[ 8][ 1],  Miss, shots: 82, misses:68, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 7],  Miss, shots: 83, misses:71, hits:12, sunk:4
+          player: shot[ 8][ 2],  Miss, shots: 83, misses:69, hits:14, sunk:3
+  bsBasicPlayer2: shot[ 1][ 6],  Miss, shots: 84, misses:72, hits:12, sunk:4
+          player: shot[ 8][ 3], SINK!, shots: 84, misses:69, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 5],  HIT!, shots: 85, misses:72, hits:13, sunk:4
+          player: shot[ 8][ 4],  Miss, shots: 85, misses:70, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 4],  HIT!, shots: 86, misses:72, hits:14, sunk:4
+          player: shot[ 8][ 5],  Miss, shots: 86, misses:71, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 3],  HIT!, shots: 87, misses:72, hits:15, sunk:4
+          player: shot[ 8][ 6],  Miss, shots: 87, misses:72, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 2],  HIT!, shots: 88, misses:72, hits:16, sunk:4
+          player: shot[ 8][ 7],  Miss, shots: 88, misses:73, hits:15, sunk:4
+  bsBasicPlayer2: shot[ 1][ 1], SINK!, shots: 89, misses:72, hits:17, sunk:5
+          player: shot[ 8][ 8],  Miss, shots: 89, misses:74, hits:15, sunk:4
+Game 3: bsBasicPlayer2 won in 89 shots, player had 15 hits and 4 sinks
+
+Match Results: bsBasicPlayer2 is the winner (3, 0, 0)

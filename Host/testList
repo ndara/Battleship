@@ -1,0 +1,6 @@
+reqAtMostGlobals 0
+reqAtMostStaticsFile 0
+reqAtMostStaticsLocal 0
+reqNoUseOf goto
+reqAtLeastHeaderFiles 1
+reqAtLeastSourceFiles 2
